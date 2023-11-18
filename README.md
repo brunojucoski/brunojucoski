@@ -7,7 +7,7 @@ Ainda estou buscando me aprimorar nos meus conhecimentos e habilidades, me inter
 Tenho facilidade em aprender e sou uma pessoa muito comunicativa, se tem interesse em me contratar eis meu famoso whatsapp :
  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5548996217914&text&type=phone_number&app_absent=0) 
  
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cajutatueiro/)
+ 
  
 
 <!--
