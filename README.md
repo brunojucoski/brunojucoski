@@ -3,8 +3,7 @@ Hi World
 
 Estou cursando Analise e Desenvolvimento de Sistemas pela Instituição SENAC(SC) e tenho interesse em qualquer estágio na área. 
 
-I am studying Systems Analysis and Development at SENAC Institution(Brazil) and i'm interested in any internship at the area... I'm fluent in English by the way, not too good typing but realy good speaking and listening. 
-
+I am studying Systems Analysis and Development at SENAC Institution(Brazil) and i'm interested in any internship at the area... I'm fluent in English by the way!
 
 Ainda estou buscando me aprimorar nos meus conhecimentos e habilidades, me interesso bastante sobre SGBDs e a teoria que envolve o desenvolvimento de sistemas. 
 
